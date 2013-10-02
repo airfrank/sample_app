@@ -3,7 +3,11 @@ ruby '1.9.3'
 #ruby-gemset=railstutorial_rails_4_0
 
 gem 'rails', '3.2.13'
+<<<<<<< HEAD
 gem 'pg', '0.15.1'
+=======
+gem 'bootstrap-sass', '2.3.2.0'
+>>>>>>> filling-in-layout
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
